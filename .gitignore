@@ -1,0 +1,8 @@
+# Yarn error output
+yarn-error.log
+
+# Output from build
+dist/
+
+# node/npm dependencies
+node_modules/
